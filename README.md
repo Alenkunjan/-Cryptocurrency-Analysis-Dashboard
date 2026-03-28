@@ -23,6 +23,12 @@ This project implements a complete cryptocurrency analysis platform with data ac
    - Plotly visualizations
    - Risk-return analysis
    - Multi-crypto comparisons
+4.** Milestone 4: Risk Classification & Reporting (Week 7–8)
+
+   -Risk level categorization (Low, Medium, High)
+   -Highlight high-risk cryptocurrencies in dashboard
+   -Generate reports (CSV, PDF, PNG export)
+   -Final validation and documentation  
 
 ---
 
